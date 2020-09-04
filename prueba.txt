@@ -1,3 +1,5 @@
 Esta sera nuestra prueba definitiva para entender que la forma mas idionea para colaborar es con pull-requests
 
 Hola david soy paola y quiero colaborar en tu proyecto open source
+
+Voy a seguir trabajando
