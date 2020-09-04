@@ -3,3 +3,5 @@ Esta sera nuestra prueba definitiva para entender que la forma mas idionea para 
 Hola david soy paola y quiero colaborar en tu proyecto open source
 
 Voy a seguir trabajando
+
+mis estudiantes ahora si entenderan el pull requests por que son muy pilos
