@@ -5,3 +5,5 @@ Hola david soy paola y quiero colaborar en tu proyecto open source
 Voy a seguir trabajando
 
 mis estudiantes ahora si entenderan el pull requests por que son muy pilos
+
+Hola, soy Anyerson y por fin entendi el "Pull Request"
